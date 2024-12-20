@@ -1,1 +1,1 @@
-## Learning Next JS 14 & 15
+# Learning Next JS 14 & 15
