@@ -9,4 +9,4 @@ Ce dépôt contient des exercices et projets réalisés dans le cadre d'une form
 ### 🇬🇧 Next.js 15 Training
 
 This repository includes exercises and projects from a **Next.js 15** training, focused on building modern applications with **JavaScript**.
-..
+...
