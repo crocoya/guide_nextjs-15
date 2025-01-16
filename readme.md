@@ -12,3 +12,4 @@ This repository includes exercises and projects from a **Next.js 15** training, 
 aaa
 a
 a
+a
